@@ -5,7 +5,7 @@ int main() {
     int n=0, risultato=0, a=0, b=1;
     cout << "inserire un valore massimo n" << endl;
     cin >> n;
-    for (int i = 1 ; i<n; i++)
+    for (int i = 1 ; i>0; i++)
 
     if (a+b<=n) {
         {
